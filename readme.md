@@ -1,6 +1,6 @@
 # Strips BBNC and all other <link> tag stylesheets
 
-BBNC is a frustrating application to work with.  I created this to remove stylesheets from a page allowing for a page to truly blank inregards to CSS.
+BBNC is a frustrating application to work with.  This snippet removes all stylesheets associated with a <link> tag.
 
 
 ## Directions
