@@ -1,6 +1,6 @@
-# Strips BBNC and all other <link> tag stylesheets
+# Strips BBNC and all other `<link>` tag stylesheets
 
-BBNC is a frustrating application to work with.  This snippet removes all stylesheets associated with a <link> tag.
+BBNC is a frustrating application to work with.  This snippet removes all stylesheets associated with a `<link>` tag.
 
 
 ## Directions
