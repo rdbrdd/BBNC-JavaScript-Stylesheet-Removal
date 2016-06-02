@@ -1,6 +1,6 @@
-# Strips BBNC and all other `<link>` tag stylesheets
+# BBNC JavaScript Stylesheet Removal
 
-BBNC is a frustrating application to work with.  This snippet removes all stylesheets associated with a `<link>` tag.
+BBNC is a frustrating application to work with to say the least.  This simple snippet removes all stylesheets associated with a `<link>` tag. The purpose is to allow you to have clean slate to build on when creating various custom content.
 
 
 ## Directions
